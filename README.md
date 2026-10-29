@@ -1,6 +1,6 @@
-# GAN-based augmentation and SSIM-guided selection for breast ultrasound classification
+# GAN-Based Data Augmentation and Similarity-Guided Sample Selection for Cross-Dataset Generalization in Breast Ultrasound Classification
 
-Code for the manuscript "[paper title]". It covers GAN training and image generation,
+Code for the manuscript "GAN-Based Data Augmentation and Similarity-Guided Sample Selection for Cross-Dataset Generalization in Breast Ultrasound Classification". It covers GAN training and image generation,
 SSIM-based selection of synthetic images, CNN training/evaluation on an internal and an
 external test set, and the robustness analyses (conventional augmentation, Top-k, Random-5,
 SSIM thresholds, three random seeds, bootstrap confidence intervals).
